@@ -1,0 +1,23 @@
+.transactionHistory {
+  margin: 0 auto;
+  border: 1px solid #b4b0b0;
+  margin-bottom: 50px;
+}
+
+.transactionHeader {
+    background-color: #6290e4e1;
+  border-right: 1px solid #b4b0b0;
+  border-bottom: 1px solid #b4b0b0;
+  width: 140px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.transactionHistory td {
+  border-right: 1px solid #b4b0b0;
+  border-bottom: 1px solid #b4b0b0;
+  text-align: center;
+  padding-top: 6px;
+  padding-bottom: 6px;
+
+}
